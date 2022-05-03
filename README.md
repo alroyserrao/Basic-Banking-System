@@ -7,7 +7,7 @@
 
 ## Introduction
 >  ### The Sparks Foundation Internship Project - Basic Banking System
-> A web application used to transfer money between two users.
+> A web application used to transfer money between users.
 
 ## Technologies Used:
 >  ### Front-End:
@@ -18,4 +18,11 @@
 -  PHP 
 -  MYSQL
 
-![bank](https://user-images.githubusercontent.com/68016670/166570057-148a3d32-a247-4a33-a7d7-03f8933483c6.png)
+Below are the screenshots of the website
+<img width="1280" alt="Screen Shot 2022-05-04 at 3 06 50 AM" src="https://user-images.githubusercontent.com/68016670/166570788-8935970a-dfe2-4ff7-849a-785de33fdfb9.png">
+<img width="1280" alt="Screen Shot 2022-05-04 at 3 07 02 AM" src="https://user-images.githubusercontent.com/68016670/166570815-f51ab5e5-6ca0-42df-8531-aa13906c106f.png">
+<img width="1280" alt="Screen Shot 2022-05-04 at 3 07 16 AM" src="https://user-images.githubusercontent.com/68016670/166570828-99a189b8-0e78-4057-b467-0ee490b84bcf.png">
+<img width="1280" alt="Screen Shot 2022-05-04 at 3 07 46 AM" src="https://user-images.githubusercontent.com/68016670/166570848-9550ccac-0c16-474d-943f-0c2542484ee3.png">
+<img width="1280" alt="Screen Shot 2022-05-04 at 3 08 01 AM" src="https://user-images.githubusercontent.com/68016670/166570862-dfa48c28-9405-4fe0-9afd-65b5fb4ef1b6.png">
+<img width="1280" alt="Screen Shot 2022-05-04 at 3 08 12 AM" src="https://user-images.githubusercontent.com/68016670/166570886-d720f32e-f771-4a87-8414-2fb8f011ebc7.png">
+<img width="1280" alt="Screen Shot 2022-05-04 at 3 08 25 AM" src="https://user-images.githubusercontent.com/68016670/166570896-24cb8b5a-2895-4b91-8a70-d03899b5db22.png">
