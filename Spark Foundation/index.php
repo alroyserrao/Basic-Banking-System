@@ -127,7 +127,7 @@
             </div>
         </div>
     </div>
-    <img src="statics/abstbg2.png" alt="" style="width:100%; position:absolute; z-index:-1">
+    <img src="statics/abstbg.png" alt="" style="width:100%; position:absolute; z-index:-1">
 
     <center style="margin:60px 0px 20px 0px;">
         <div class="container"
